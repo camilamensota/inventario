@@ -1,0 +1,98 @@
+<div class="full-width navLateral-bg btn-menu"></div>
+		<div class="full-width navLateral-body">
+			<div class="full-width navLateral-body-logo text-center tittles">
+				<i class="zmdi zmdi-close btn-menu"></i> INVENTARIO
+			</div>
+			<figure class="full-width navLateral-body-tittle-menu">
+				<div>
+					<img src="assets/img/avatar-male.png" alt="Avatar" class="img-responsive">
+				</div>
+				<figcaption>
+					<span>
+						Full Name Admin<br>
+						<small>Admin</small>
+					</span>
+				</figcaption>
+			</figure>
+			<nav class="full-width">
+				<ul class="full-width list-unstyle menu-principal">
+					<li class="full-width">
+						<a href="home.php" class="full-width">
+							<div class="navLateral-body-cl">
+								<i class="zmdi zmdi-view-dashboard"></i>
+							</div>
+							<div class="navLateral-body-cr">
+								INICIO
+							</div>
+						</a>
+					</li>
+					<li class="full-width divider-menu-h"></li>
+					<li class="full-width">
+						<a href="inventory.php" class="full-width">
+							<div class="navLateral-body-cl">
+								<i class="zmdi zmdi-view-list"></i>
+							</div>
+							<div class="navLateral-body-cr">
+								INVENTARIO
+							</div>
+						</a>
+					</li>
+					<li class="full-width divider-menu-h"></li>
+					<li class="full-width">
+						<a href="home.php" class="full-width">
+							<div class="navLateral-body-cl">
+								<i class="zmdi zmdi-label"></i>
+							</div>
+							<div class="navLateral-body-cr">
+								AREAS
+							</div>
+						</a>
+					</li>
+					<li class="full-width divider-menu-h"></li>
+					<li class="full-width">
+						<a href="products.php" class="full-width">
+							<div class="navLateral-body-cl">
+								<i class="zmdi zmdi-accounts"></i>
+							</div>
+							<div class="navLateral-body-cr">
+								EMPLEADOS
+							</div>
+						</a>
+					</li>
+					<li class="full-width divider-menu-h"></li>
+					<li class="full-width">
+						<a href="sales.php" class="full-width">
+							<div class="navLateral-body-cl">
+								<i class="zmdi zmdi-assignment"></i>
+							</div>
+							<div class="navLateral-body-cr">
+								BITACORA
+							</div>
+						</a>
+					</li>
+					<li class="full-width divider-menu-h"></li>
+					<li class="full-width">
+						<a href="inventory.php" class="full-width">
+							<div class="navLateral-body-cl">
+								<i class="zmdi zmdi-account"></i>
+							</div>
+							<div class="navLateral-body-cr">
+								ADMINISTRADORES
+							</div>
+						</a>
+					</li>
+					<li class="full-width divider-menu-h"></li>
+					<li class="full-width">
+						<a href="#!" class="full-width btn-subMenu">
+							<div class="navLateral-body-cl">
+								<i class="zmdi zmdi-plus-circle"></i>
+							</div>
+							<div class="navLateral-body-cr">
+								AGREGAR A INVENTARIO
+							</div>
+							<span class="zmdi zmdi-chevron-left"></span>
+						</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
